@@ -1,4 +1,4 @@
-# KDD Project
+# Water Quality Prediction
 
 This repository contains the final project for water quality prediction. The project involves data analysis, preprocessing, model training, and evaluation.
 
